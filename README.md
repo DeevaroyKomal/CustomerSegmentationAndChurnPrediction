@@ -1,4 +1,4 @@
-# Customer Churn Prediction & Customer Segmentation using Machine Learning
+# Customer Segmentation & Churn Prediction using Machine Learning
 
 ## Overview
 
